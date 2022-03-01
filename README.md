@@ -1,6 +1,6 @@
 # Doom_Trident_300_config_backup
 
-Klipper config backup for Doom Trident 300^2 x 350Z
+Klipper config backup for Doom Trident 300^(2) x 350Z
 
 **Printer CFG:**
 
