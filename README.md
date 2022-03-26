@@ -8,7 +8,7 @@ Configured for BTT Octopus. Basic configuration located at: https://github.com/V
 
 **Macros CFG**
 
-Adapted from Ellis's macros lcoated at https://github.com/AndrewEllis93/v2.247_backup_klipper_config
+Adapted from Ellis's macros located at https://github.com/AndrewEllis93/v2.247_backup_klipper_config
 
 **Euclid CFG:**
 
