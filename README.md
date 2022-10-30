@@ -22,6 +22,4 @@ Klipper config backup for Doom Trident 300 <sup>2</sup> x 350.
 
 - <a href= "https://github.com/protoloft/klipper_z_calibration"> Automatic Z Calibration. </a> Perfect first layers every print. See  for more info.
 
-**Frame Comp CFG**
 
-- See <a href= "https://github.com/alchemyEngine/klipper_frame_expansion_comp"> AlchemyEngine's repo </a> for more info. Macros adapted from Ellis's config linked above.
