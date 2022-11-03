@@ -2,6 +2,8 @@
 
 Klipper config backup for Doom Trident 300 <sup>2</sup> x 350.
 
+# WIP - Currently undergoing total reorganization of config format to avoid super long printer.cfg and macros.cfg files. Copy at your own risk. 
+
 **Printer CFG:**
 
 - Configured for BTT Octopus. Basic configuration <a href="https://github.com/VoronDesign/Voron-Trident/blob/main/Firmware/Octopus/Trident_Octopus_Config.cfg"> here </a>.
