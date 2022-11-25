@@ -4,7 +4,7 @@ port = 7125
 max_upload_size = 1024
 
 [file_manager]
-enable_object_processing = False
+enable_object_processing = True
 
 [authorization]
 cors_domains = 
