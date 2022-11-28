@@ -8,7 +8,7 @@
 config_folder=~/klipper_config
 
 ### Path to your Klipper folder, by default that is '~/klipper'
-klipper_folder=~/klipper
+#klipper_folder=~/klipper
 
 ### Path to your Moonraker folder, by default that is '~/moonraker'
 #moonraker_folder=~/moonraker
