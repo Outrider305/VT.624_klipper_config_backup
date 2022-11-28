@@ -11,10 +11,10 @@ config_folder=~/klipper_config
 klipper_folder=~/klipper
 
 ### Path to your Moonraker folder, by default that is '~/moonraker'
-moonraker_folder=~/moonraker
+#moonraker_folder=~/moonraker
 
 ### Path to your Mainsail folder, by default that is '~/mainsail'
-mainsail_folder=~/mainsail
+#mainsail_folder=~/mainsail
 
 ### Path to your Fluidd folder, by default that is '~/fluidd'
 #fluidd_folder=~/fluidd
