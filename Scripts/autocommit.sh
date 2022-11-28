@@ -61,5 +61,5 @@ push_config() {
   git push
 }
 
-grab_version
+#grab_version
 push_config
